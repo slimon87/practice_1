@@ -54,11 +54,13 @@ body{
 .main-text{
   padding: 15px;
   text-align: center;
+  font-size: 15px;
 }
 .footer-text{
   display: inline-block;
   min-height: 100px;
   padding: 15px;
   width: 33.33333%;
+  font-size: 15px;
 }
 
